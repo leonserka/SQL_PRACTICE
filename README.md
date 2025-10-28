@@ -108,13 +108,6 @@ Plivac (1)───(∞) Prisutnost (∞)───(1) Trening (∞)───(1) 
 - 📊 **ER Modeling / Normalization**
 - 🧠 **Functional Dependency Analysis**
 
----
-
-## 🚧 Future Improvements
-
-More features coming soon — such as stored procedures for ranking swimmers by performance, and automatic report generation for competitions and trainings.
-
----
 
 ## 📄 License
 
